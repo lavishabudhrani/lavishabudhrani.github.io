@@ -3,3 +3,11 @@ body {
   color:#222;
   font-size:16px;
 }
+
+header {
+  font-size: 24px;
+}
+
+nav {
+  font-style: italic;
+}
