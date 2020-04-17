@@ -2,13 +2,6 @@ style.css
 
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@700&family=Tinos&display=swap');
 
-h2 {
-  font-family: "Tinos", serif;
-  font-weight: 400;
-  color:#222;
-  font-size:20px;
-}
-
 main {
   display: grid;
   grid-template-columns: 300px 300px 300px 300px;
@@ -24,6 +17,13 @@ header {
 h1 {
   font-family: "Josefin Slab", serif;
   font-weight: 700;	
+}
+
+h2 {
+  font-family: "Tinos", serif;
+  font-weight: 400;
+  color:#222;
+  font-size:20px;
 }
 
 nav {
