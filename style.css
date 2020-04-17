@@ -1,5 +1,8 @@
 style.css
 
+
+
+
 body {
   font-family:sans-serif;
   color:#222;
@@ -20,15 +23,12 @@ h1, p {
 	background-color: #eee;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Questrial&display=swap');
-
-h1 {
-	font-family: "Lobster";
+main {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-column-gap: 1.5rem;
 }
 
-aside img {
-  border-width: 3px;
-  border-style: solid;
-  border-color: #222;
-
+#sidebar {
+  font-size: 0.75rem;
 }
