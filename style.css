@@ -3,9 +3,15 @@ style.css
 @import url('https://fonts.googleapis.com/css?family=Londrina+Solid:900|Roboto&display=swap');
 
 body {
-  font-family: "Roboto", "Helvetica", "Arial", serif;
+  font-family: "Roboto", "Helvetica", serif;
   color:#222;
   font-size:20px;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  grid-template-rows: 20px 20px;
 }
 
 header {
@@ -13,7 +19,7 @@ header {
 }
 
 h1 {
-  font-family: "Londrina Solid", "Helvetica", monospace, cursive;
+  font-family: "Londrina Solid", "Helvetica", cursive;
   font-weight: 800;
 }
 
