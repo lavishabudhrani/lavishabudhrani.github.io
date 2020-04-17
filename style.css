@@ -20,9 +20,19 @@ nav {
 h1, h2 {
 	margin: 5;
 	margin-bottom: 16px;
-	background-color: rgb(235,211,230);
-	font-family: "Josefin Slab", serif;
-  	font-weight: 700;	
+	background-color: rgb(235,211,230);	
+}
+
+h1 {
+  font-family: "Josefin Slab", serif;
+  font-weight: 700;
+}
+
+h2 {
+  font-family: "Tinos", serif;
+  font-weight: 400;
+  color:#222;
+  font-size:20px;
 }
 
 div {
