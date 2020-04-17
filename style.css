@@ -36,3 +36,12 @@ h1, h2 {
 	margin: 5;
 	margin-bottom: 16px;
 	background-color: #eee;
+	
+#content {
+  padding-right: 1.5rem;
+  border-right: 1px solid #ccc;
+}
+
+#sidebar {
+  font-size: 0.75rem;
+}
