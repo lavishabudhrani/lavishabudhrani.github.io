@@ -1,9 +1,10 @@
 style.css
 
-@import url('https://fonts.googleapis.com/css?family=Londrina+Solid:900|Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700|Patua+One');
 
 body {
-  font-family: "Roboto", "Helvetica", serif;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
   color:#222;
   font-size:20px;
 }
@@ -19,8 +20,7 @@ header {
 }
 
 h1 {
-  font-family: "Londrina Solid", "Helvetica", "Arial", cursive;
-  font-weight: 900;
+  font-family: "Patua One", sans-serif;
 }
 
 nav {
