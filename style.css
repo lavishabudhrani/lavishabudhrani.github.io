@@ -13,7 +13,7 @@ header {
 }
 
 h1 {
-  font-family: "Londrina Solid", "Helvetica", sans-serif;
+  font-family: "Londrina Solid", "Helvetica", "monospace", sans-serif;
   font-weight: 800;
 }
 
