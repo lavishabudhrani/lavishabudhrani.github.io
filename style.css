@@ -23,12 +23,6 @@ h1, p {
 	background-color: #eee;
 }
 
-main {
-  display: grid;
-  grid-template-columns: 2fr 1fr;
-  grid-column-gap: 1.5rem;
-}
-
 #sidebar {
   font-size: 0.75rem;
 }
