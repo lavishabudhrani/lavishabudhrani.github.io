@@ -2,8 +2,8 @@ style.css
 
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@700&family=Tinos&display=swap');
 
-body {
-font-family: "Tinos", serif;
+main {
+  font-family: "Tinos", serif;
   font-weight: 400;
   color:#222;
   font-size:20px;
@@ -17,6 +17,8 @@ main {
 
 header {
   font-size: 18px;
+  font-family: "Tinos", serif;
+  font-weight: 400;
 }
 
 h1 {
