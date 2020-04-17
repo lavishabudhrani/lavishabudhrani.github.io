@@ -2,12 +2,13 @@ style.css
 
 body {
   font-family:sans-serif;
-  color:#999;
+  color:#444;
   font-size:20px;
 }
 
 header {
   font-size: 20px;
+  background-color: #eee;
 }
 
 nav {
