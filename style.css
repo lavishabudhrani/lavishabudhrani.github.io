@@ -3,7 +3,7 @@ style.css
 @import url('https://fonts.googleapis.com/css?family=Londrina+Solid:900|Roboto&display=swap');
 
 body {
-  font-family:sans-serif;
+  font-family: "Roboto", "Helvetica", "Arial", serif;
   color:#222;
   font-size:20px;
 }
