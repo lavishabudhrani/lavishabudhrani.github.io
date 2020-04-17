@@ -32,3 +32,8 @@ h1, h2 {
 	margin-bottom: 16px;
 	background-color: #eee;
 }
+
+div {
+  width: 100px;
+  height: 100px;
+}
