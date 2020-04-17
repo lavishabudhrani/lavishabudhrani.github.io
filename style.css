@@ -2,8 +2,9 @@ style.css
 
 body {
   font-family:sans-serif;
-  color:#444;
+  color:#222;
   font-size:20px;
+  line-height: 1.5
 }
 
 header {
@@ -26,3 +27,9 @@ h1 {
 	font-family: "Lobster";
 }
 
+aside img {
+  border-width: 3px;
+  border-style: solid;
+  border-color: #222;
+
+}
