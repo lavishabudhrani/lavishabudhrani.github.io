@@ -14,18 +14,12 @@ nav {
   font-style: italic;
 }
 
-<div class="border border-gray-light mb-2">
-  .border-gray-light
-</div>
-
-div {
-	width: 600px;
-	padding: 20px;
-	border: 5px solid #222;
-	margin: 30px;
-}
-
 h1, p {
 	margin: 5;
 	margin-bottom: 16px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+h1 {
+	font-family: "Questrial";
 }
