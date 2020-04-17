@@ -21,7 +21,7 @@ nav {
   font-style: italic;
 }
 
-h1 {
+h1, h2 {
 	margin: 5;
 	margin-bottom: 16px;
 	background-color: #eee;
