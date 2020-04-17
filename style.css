@@ -11,3 +11,10 @@ header {
 nav {
   font-style: italic;
 }
+
+div {
+	width: 600px;
+	padding: 20px;
+	border: 5px solid #ccc;
+	margin: 30px;
+}
