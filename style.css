@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  font-size: 22px;
+  font-size: 20px;
 }
 
 nav {
@@ -18,8 +18,9 @@ h1, p {
 	margin: 5;
 	margin-bottom: 16px;
 }
-@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Questrial&display=swap');
 
 h1 {
-	font-family: "Questrial";
+	font-family: "Lobster";
 }
