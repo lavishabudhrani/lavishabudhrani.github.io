@@ -13,18 +13,6 @@ header {
   font-family: "Tinos", serif;
 }
 
-h1 {
-  font-family: "Josefin Slab", serif;
-  font-weight: 700;	
-}
-
-h2 {
-  font-family: "Tinos", serif;
-  font-weight: 400;
-  color:#222;
-  font-size:20px;
-}
-
 nav {
   font-style: italic;
 }
