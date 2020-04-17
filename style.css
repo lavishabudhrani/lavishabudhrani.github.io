@@ -32,3 +32,6 @@ h1, h2 {
 	margin-bottom: 16px;
 	background-color: #eee;
 }
+<div class="margin-orange d-inline-block">
+  <div class="d-inline-block block-blue m-2">.m-2</div>
+</div>
