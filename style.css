@@ -13,6 +13,12 @@ header {
   font-family: "Tinos", serif;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
 nav {
   font-style: italic;
 }
