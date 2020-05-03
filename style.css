@@ -15,8 +15,6 @@ header {
 
 ul {
   list-style-type: circle;
-  margin: 0;
-  padding: 0;
   border: 1px solid #555;
 }
 
