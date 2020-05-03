@@ -13,17 +13,6 @@ header {
   font-family: "Tinos", serif;
 }
 
-ul {
-  list-style-type: circle;
-  border: 1px solid #555;
-}
-
-li {
-  text-align: center;
-  border-bottom: 1px solid #555;
-  display: inline;
-}
-
 nav {
   font-style: italic;
 }
