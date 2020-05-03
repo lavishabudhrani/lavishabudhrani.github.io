@@ -8,10 +8,6 @@ main {
   grid-template-rows: 20px 20px 20px;
 }
 
-li {
-  display: inline;
-}
-
 header {
   font-size: 18px;
   font-family: "Tinos", serif;
