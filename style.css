@@ -10,13 +10,26 @@ main {
 
 li {
   display: inline;
-  float: left;
 }
 
 header {
   font-size: 18px;
   font-family: "Tinos", serif;
 }
+
+<style>
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+</style>
+<body>
+
+<div class="content">
+  <!-- Page content -->
+</div>
+
+</body>
 
 nav {
   font-style: italic;
