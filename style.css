@@ -10,6 +10,7 @@ main {
 
 li {
   display: inline;
+  float: left;
 }
 
 header {
