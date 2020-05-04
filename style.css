@@ -11,14 +11,6 @@ nav {
   font-style: italic;
   display: inline;
 }
-
-nav a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
 	
 
 h1, h2 {
