@@ -9,9 +9,8 @@ header {
 
 nav {
   font-style: italic;
-  list-syle-type: none;
-  margin: 0;
-  padding: 0;
+  display: inline;
+}
 	
 
 h1, h2 {
