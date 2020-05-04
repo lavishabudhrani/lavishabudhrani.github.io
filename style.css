@@ -2,12 +2,6 @@ style.css
 
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@700&family=Tinos&display=swap');
 
-main {
-  display: grid;
-  grid-template-columns: 100px 100px 100px 100px;
-  grid-template-rows: 20px 20px 20px;
-}
-
 header {
   font-size: 18px;
   font-family: "Tinos", serif;
