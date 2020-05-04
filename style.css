@@ -66,8 +66,7 @@ img {
     border: 3px solid #ccc;
     margin: 15px;
 	
-/*Scale down will take the necessary specified space that is 100px x 100px without stretching the image*/
-    object-fit:scale-down;
-
-}
+icons img {
+    width: 100px;
+    padding: 10px;
 
