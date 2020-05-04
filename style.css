@@ -9,12 +9,9 @@ header {
 
 nav {
   font-style: italic;
-}
-
-.content-wrapper {
-  margin-right: auto;
-  margin-left: auto;
-  max-width: 960px;
+   list-syle-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 h1, h2 {
